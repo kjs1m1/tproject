@@ -142,7 +142,7 @@
                                 <option value="selected" selected>검색</option>
                                 <option value="title">제목은</option>
                                 <option value="contents">본문은</option>
-                                <option value="userid">글쓴이</option>
+                                <option value="userid">글쓴이는</option>
                             </select>
 
                             <input name="findtext" type="text"/>
