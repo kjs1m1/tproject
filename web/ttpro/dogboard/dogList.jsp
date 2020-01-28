@@ -140,7 +140,7 @@
                         <td width="70%" align="center">&nbsp;&nbsp;
                             <select name="colname" class="txt">
                                 <option value="selected" selected>검색</option>
-                                <option value="title">제목은</option>
+                                <option value="title">제목은1</option>
                                 <option value="contents">본문은</option>
                                 <option value="userid">글쓴이는ㅇ</option>
                             </select>
