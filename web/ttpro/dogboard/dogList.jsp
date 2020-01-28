@@ -141,7 +141,7 @@
                             <select name="colname" class="txt">
                                 <option value="selected" selected>검색</option>
                                 <option value="title">제목은</option>
-                                <option value="contents">본문</option>
+                                <option value="contents">본문은</option>
                                 <option value="userid">글쓴이</option>
                             </select>
 
